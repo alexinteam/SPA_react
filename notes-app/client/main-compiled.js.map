@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":";;;;qBAAkB,OAAO;;;;wBACJ,WAAW;;;;AAEhC,sBAAS,MAAM,EAEd,CAAC","file":"main-compiled.js","sourcesContent":["import React from 'react';\r\nimport ReactDOM from 'react-dom';\r\n\r\nReactDOM.render(\r\n    \r\n);"]}
